@@ -101,7 +101,7 @@ try:
             screen.blit(text_surface, (10, 10 + i * 40))
 
         # User action
-        if e.type == pygame.KEYDOWN:
+        if e.type == pygame.KEYDOWN: 
             if e.key == ord("b"):
                 ch_color = (0, 191, 255)
             if e.key == ord("y"):

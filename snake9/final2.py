@@ -19,7 +19,7 @@ pygame.init()
 pygame.display.set_caption('Snakee')
 game_window = pygame.display.set_mode((Constant.window_x, Constant.window_y))
 
-
+ 
 FPS = pygame.time.Clock()
 
 # определение положения змеи по умолчанию

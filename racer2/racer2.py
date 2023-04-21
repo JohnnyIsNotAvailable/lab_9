@@ -18,7 +18,7 @@ WHITE = (255, 255, 255)
 
 # Other Variables for use in the program
 SCREEN_WIDTH = 400
-SCREEN_HEIGHT = 800
+SCREEN_HEIGHT = 800 
 SPEED = 5
 SCORE = 0
 SCORE2 = 0
